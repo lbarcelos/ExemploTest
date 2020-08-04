@@ -17,7 +17,9 @@ import org.junit.Test;
 
 /**
  *
- * @author leona
+ * @author leonaardo vieia barfkldfkasjfkasl as
+ * adslkfjaslkfjas
+ * 
  */
 public class TestCompras extends TestCase {
     
@@ -29,6 +31,7 @@ public class TestCompras extends TestCase {
         CompraModel compraDesc10 = new CompraModel();
         CompraModel compraDesc1 = new CompraModel();
         Calculo calc = new Calculo();
+        System.out.println("Leonado");
 
         compraDesc10.setValor(1000);
         compraDesc10.setIdade(80);
