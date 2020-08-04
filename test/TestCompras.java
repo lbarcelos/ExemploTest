@@ -33,6 +33,7 @@ public class TestCompras extends TestCase {
         Calculo calc = new Calculo();
         System.out.println("Leonado");
         System.out.println("Joao");
+        System.out.println("Maria");
 
         compraDesc10.setValor(1000);
         compraDesc10.setIdade(80);
