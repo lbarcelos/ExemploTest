@@ -32,6 +32,7 @@ public class TestCompras extends TestCase {
         CompraModel compraDesc1 = new CompraModel();
         Calculo calc = new Calculo();
         System.out.println("Leonado");
+        System.out.println("Joao");
 
         compraDesc10.setValor(1000);
         compraDesc10.setIdade(80);
